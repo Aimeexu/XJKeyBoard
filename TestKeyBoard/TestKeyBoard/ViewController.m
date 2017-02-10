@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-#import <XJKeyBoard/XJKeyBoard.h>
+#import "KeyBoardView.h"
 
 @interface ViewController () <KeyBoardViewDelegate>
 

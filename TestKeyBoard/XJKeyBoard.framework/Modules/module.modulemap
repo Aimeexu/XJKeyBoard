@@ -1,6 +1,0 @@
-framework module XJKeyBoard {
-  umbrella header "XJKeyBoard.h"
-
-  export *
-  module * { export * }
-}
